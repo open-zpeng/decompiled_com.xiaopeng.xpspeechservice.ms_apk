@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="emptyItemColor" format="color">
+    </attr>
+    <attr name="emptyItemDrawable" format="reference">
+    </attr>
+    <attr name="repeatItems" format="boolean">
+    </attr>
+    <attr name="rotatableWheelDrawable" format="boolean">
+    </attr>
+    <attr name="selectionAngle" format="float">
+    </attr>
+    <attr name="selectionColor" format="color">
+    </attr>
+    <attr name="selectionDrawable" format="reference">
+    </attr>
+    <attr name="selectionPadding" format="dimension">
+    </attr>
+    <attr name="selectionTransformer" format="string">
+    </attr>
+    <attr name="wheelColor" format="color">
+    </attr>
+    <attr name="wheelDrawable" format="reference">
+    </attr>
+    <attr name="wheelItemAngle" format="float">
+    </attr>
+    <attr name="wheelItemAnglePadding" format="float">
+    </attr>
+    <attr name="wheelItemCount" format="integer">
+    </attr>
+    <attr name="wheelItemRadius" format="dimension">
+    </attr>
+    <attr name="wheelItemTransformer" format="string">
+    </attr>
+    <attr name="wheelOffsetX" format="dimension">
+    </attr>
+    <attr name="wheelOffsetY" format="dimension">
+    </attr>
+    <attr name="wheelPadding" format="dimension">
+    </attr>
+    <attr name="wheelPosition">
+        <flag name="bottom" value="8" />
+        <flag name="left" value="1" />
+        <flag name="right" value="2" />
+        <flag name="top" value="4" />
+    </attr>
+    <attr name="wheelRadius" format="dimension">
+        <enum name="match_parent" value="-1" />
+    </attr>
+    <attr name="wheelToItemDistance" format="dimension">
+        <enum name="match_parent" value="-1" />
+    </attr>
+</resources>

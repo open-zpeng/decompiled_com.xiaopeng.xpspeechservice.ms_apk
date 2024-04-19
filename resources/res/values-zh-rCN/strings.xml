@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">小鹏TTS引擎-微软</string>
+    <string name="tts_sample_en">Hi This is XiaoPeng Speech Service</string>
+    <string name="tts_sample_zh">您好，我是智能助理小批，这里是小鹏语音引擎，随时为您服务</string>
+</resources>
